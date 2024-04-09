@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# compiled executable
+main
+
+# VScode local
+settings.json

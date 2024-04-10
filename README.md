@@ -13,8 +13,6 @@ Script may need to be adjusted depending on your instrument's # of outputs _(cur
 
 ## Simple usage
 
-Make sure that in `main.c`, variable `dev` corresponds to your local setup (on Linux/Ubuntu, your serial path might be e.g. `/dev/ttyACM0`)
-
 Build
 ```
 make
@@ -26,7 +24,7 @@ Run
 ```
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-c-vcp/assets/1357711/f97ecc9a-5e57-4e7e-9756-88717bce3e84" width=400 />
+<img src="https://github.com/Dracaltech/sample-c-cli/assets/1357711/fad37ed3-5f5d-4240-9e9d-56c4a8ed364b" width=400 />
 
 ```
 ↑253 dracal/sample-c-cli git:(main) ▶ ./main
